@@ -1,0 +1,15 @@
+C:\projects\IOC\IOC.WinForm\bin\Debug\IOC.WinForm.exe.config
+C:\projects\IOC\IOC.WinForm\bin\Debug\IOC.WinForm.exe
+C:\projects\IOC\IOC.WinForm\bin\Debug\IOC.WinForm.pdb
+C:\projects\IOC\IOC.WinForm\obj\Debug\IOC.WinForm.Properties.Resources.resources
+C:\projects\IOC\IOC.WinForm\obj\Debug\IOC.WinForm.csproj.GenerateResource.Cache
+C:\projects\IOC\IOC.WinForm\obj\Debug\IOC.WinForm.exe
+C:\projects\IOC\IOC.WinForm\obj\Debug\IOC.WinForm.pdb
+C:\projects\IOC\IOC.WinForm\bin\Debug\Castle.Core.dll
+C:\projects\IOC\IOC.WinForm\bin\Debug\Castle.Windsor.dll
+C:\projects\IOC\IOC.WinForm\bin\Debug\Castle.Core.xml
+C:\projects\IOC\IOC.WinForm\bin\Debug\Castle.Windsor.xml
+C:\projects\IOC\IOC.WinForm\bin\Debug\IOC.ClassLibrary.dll
+C:\projects\IOC\IOC.WinForm\bin\Debug\IOC.ClassLibrary.pdb
+C:\projects\IOC\IOC.WinForm\obj\Debug\IOC.WinForm.csprojResolveAssemblyReference.cache
+C:\projects\IOC\IOC.WinForm\obj\Debug\IOC.WinForm.MainForm.resources

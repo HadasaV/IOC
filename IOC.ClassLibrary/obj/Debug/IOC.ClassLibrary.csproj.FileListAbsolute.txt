@@ -1,0 +1,8 @@
+C:\projects\IOC\IOC.ClassLibrary\bin\Debug\IOC.ClassLibrary.dll
+C:\projects\IOC\IOC.ClassLibrary\bin\Debug\IOC.ClassLibrary.pdb
+C:\projects\IOC\IOC.ClassLibrary\obj\Debug\IOC.ClassLibrary.dll
+C:\projects\IOC\IOC.ClassLibrary\obj\Debug\IOC.ClassLibrary.pdb
+C:\projects\IOC\IOC.ClassLibrary\bin\Debug\Castle.Core.dll
+C:\projects\IOC\IOC.ClassLibrary\bin\Debug\Castle.Windsor.dll
+C:\projects\IOC\IOC.ClassLibrary\bin\Debug\Castle.Core.xml
+C:\projects\IOC\IOC.ClassLibrary\bin\Debug\Castle.Windsor.xml

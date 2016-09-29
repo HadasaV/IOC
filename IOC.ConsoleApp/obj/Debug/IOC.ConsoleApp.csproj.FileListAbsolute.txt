@@ -1,0 +1,12 @@
+C:\projects\IOC\IOC.ConsoleApp\bin\Debug\IOC.ConsoleApp.exe.config
+C:\projects\IOC\IOC.ConsoleApp\bin\Debug\IOC.ConsoleApp.exe
+C:\projects\IOC\IOC.ConsoleApp\bin\Debug\IOC.ConsoleApp.pdb
+C:\projects\IOC\IOC.ConsoleApp\obj\Debug\IOC.ConsoleApp.csprojResolveAssemblyReference.cache
+C:\projects\IOC\IOC.ConsoleApp\obj\Debug\IOC.ConsoleApp.exe
+C:\projects\IOC\IOC.ConsoleApp\obj\Debug\IOC.ConsoleApp.pdb
+C:\projects\IOC\IOC.ConsoleApp\bin\Debug\Castle.Core.dll
+C:\projects\IOC\IOC.ConsoleApp\bin\Debug\Castle.Windsor.dll
+C:\projects\IOC\IOC.ConsoleApp\bin\Debug\Castle.Core.xml
+C:\projects\IOC\IOC.ConsoleApp\bin\Debug\Castle.Windsor.xml
+C:\projects\IOC\IOC.ConsoleApp\bin\Debug\IOC.ClassLibrary.dll
+C:\projects\IOC\IOC.ConsoleApp\bin\Debug\IOC.ClassLibrary.pdb
